@@ -1048,3 +1048,22 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.02.16-18.35.20:681][ 78]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/Sparrow_CtrlRig5B38619C42DB3063AAB3ADB8E9D3A882.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.uasset'
 [2024.02.16-18.35.20:696][ 78]AssetCheck: New page: Asset Save: Sparrow_CtrlRig
 [2024.02.16-18.35.20:696][ 78]LogContentValidation: Display: Validating ControlRigBlueprint /Game/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.Sparrow_CtrlRig
+[2024.02.16-18.36.07:733][  2]LogSavePackage: Moving output files for package: /Game/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig
+[2024.02.16-18.36.07:737][  2]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/Sparrow_CtrlRig0148D55A41AEE1E8F3C44C93CA15AD61.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.uasset'
+[2024.02.16-18.36.07:753][  2]AssetCheck: New page: Asset Save: Sparrow_CtrlRig
+[2024.02.16-18.36.07:753][  2]LogContentValidation: Display: Validating ControlRigBlueprint /Game/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.Sparrow_CtrlRig
+[2024.02.16-18.42.03:319][459]BlueprintLog: New page: Compile Sparrow_CtrlRig
+[2024.02.16-18.42.03:361][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.02.16-18.42.14:543][687]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.16-18.43.00:641][143]LogEditorTransaction: Undo Move Control
+[2024.02.16-18.43.10:557][ 73]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.16-18.43.14:809][466]LogSavePackage: Moving output files for package: /Game/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig
+[2024.02.16-18.43.14:813][466]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/Sparrow_CtrlRigFC37C57D4F7A233CAE268DAFD60F8EB1.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.uasset'
+[2024.02.16-18.43.14:833][466]AssetCheck: New page: Asset Save: Sparrow_CtrlRig
+[2024.02.16-18.43.14:833][466]LogContentValidation: Display: Validating ControlRigBlueprint /Game/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.Sparrow_CtrlRig
+[2024.02.16-18.43.26:953][890]BlueprintLog: New page: Compile Sparrow_CtrlRig
+[2024.02.16-18.43.26:992][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.02.16-18.43.27:604][950]LogSavePackage: Moving output files for package: /Game/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig
+[2024.02.16-18.43.27:609][950]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/Sparrow_CtrlRig90E01B0D48B9D24226D5A4BD7DAF848A.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.uasset'
+[2024.02.16-18.43.27:623][950]AssetCheck: New page: Asset Save: Sparrow_CtrlRig
+[2024.02.16-18.43.27:623][950]LogContentValidation: Display: Validating ControlRigBlueprint /Game/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.Sparrow_CtrlRig
