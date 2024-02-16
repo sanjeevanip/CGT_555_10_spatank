@@ -967,3 +967,84 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.02.16-18.24.48:259][969]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/Sparrow_CtrlRigAED6A95846B12363740C4EAD2B722C0A.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.uasset'
 [2024.02.16-18.24.48:275][969]AssetCheck: New page: Asset Save: Sparrow_CtrlRig
 [2024.02.16-18.24.48:275][969]LogContentValidation: Display: Validating ControlRigBlueprint /Game/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.Sparrow_CtrlRig
+[2024.02.16-18.26.09:536][ 66]BlueprintLog: New page: Compile Sparrow_CtrlRig
+[2024.02.16-18.26.09:571][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.02.16-18.26.14:833][596]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.16-18.26.50:618][239]BlueprintLog: New page: Compile Sparrow_CtrlRig
+[2024.02.16-18.26.50:655][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.02.16-18.26.55:849][794]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.16-18.26.58:859][135]LogSavePackage: Moving output files for package: /Game/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig
+[2024.02.16-18.26.58:864][135]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/Sparrow_CtrlRigEAB67DCC427AFE3BDE3CAE9E2AC70181.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.uasset'
+[2024.02.16-18.26.58:881][135]AssetCheck: New page: Asset Save: Sparrow_CtrlRig
+[2024.02.16-18.26.58:881][135]LogContentValidation: Display: Validating ControlRigBlueprint /Game/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.Sparrow_CtrlRig
+[2024.02.16-18.27.08:477][994]LogEditorTransaction: Undo Change Control Shape Transform
+[2024.02.16-18.27.56:724][519]LogEditorTransaction: Undo Change Control Shape Transform
+[2024.02.16-18.28.10:609][982]BlueprintLog: New page: Compile Sparrow_CtrlRig
+[2024.02.16-18.28.10:645][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.02.16-18.28.16:498][606]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.16-18.28.19:458][942]LogSavePackage: Moving output files for package: /Game/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig
+[2024.02.16-18.28.19:463][942]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/Sparrow_CtrlRig9002CDD649BDFB3DB17BFA8420B4F447.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.uasset'
+[2024.02.16-18.28.19:476][942]AssetCheck: New page: Asset Save: Sparrow_CtrlRig
+[2024.02.16-18.28.19:476][942]LogContentValidation: Display: Validating ControlRigBlueprint /Game/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.Sparrow_CtrlRig
+[2024.02.16-18.29.20:279][115]BlueprintLog: New page: Compile Sparrow_CtrlRig
+[2024.02.16-18.29.20:315][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.02.16-18.29.25:805][684]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.16-18.30.00:248][156]BlueprintLog: New page: Compile Sparrow_CtrlRig
+[2024.02.16-18.30.00:284][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.02.16-18.30.03:159][475]LogSavePackage: Moving output files for package: /Game/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig
+[2024.02.16-18.30.03:163][475]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/Sparrow_CtrlRig0358A735488EC71C8BB0F09961F49FB0.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.uasset'
+[2024.02.16-18.30.03:181][475]AssetCheck: New page: Asset Save: Sparrow_CtrlRig
+[2024.02.16-18.30.03:181][475]LogContentValidation: Display: Validating ControlRigBlueprint /Game/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.Sparrow_CtrlRig
+[2024.02.16-18.30.07:406][929]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.16-18.30.32:942][544]BlueprintLog: New page: Compile Sparrow_CtrlRig
+[2024.02.16-18.30.32:978][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.02.16-18.30.40:556][347]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.16-18.30.44:028][701]LogSavePackage: Moving output files for package: /Game/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig
+[2024.02.16-18.30.44:033][701]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/Sparrow_CtrlRigCBC37B1947674A0975585D98FFF7E830.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.uasset'
+[2024.02.16-18.30.44:056][701]AssetCheck: New page: Asset Save: Sparrow_CtrlRig
+[2024.02.16-18.30.44:056][701]LogContentValidation: Display: Validating ControlRigBlueprint /Game/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.Sparrow_CtrlRig
+[2024.02.16-18.31.17:735][133]BlueprintLog: New page: Compile Sparrow_CtrlRig
+[2024.02.16-18.31.17:771][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.16-18.31.22:874][686]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.16-18.31.32:918][643]LogEditorTransaction: Undo Change Control Shape Transform
+[2024.02.16-18.31.47:123][ 86]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.16-18.31.57:311][970]LogSavePackage: Moving output files for package: /Game/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig
+[2024.02.16-18.31.57:315][970]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/Sparrow_CtrlRig82021B23464A6C6978EC85AE1AC77336.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.uasset'
+[2024.02.16-18.31.57:328][970]AssetCheck: New page: Asset Save: Sparrow_CtrlRig
+[2024.02.16-18.31.57:328][970]LogContentValidation: Display: Validating ControlRigBlueprint /Game/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.Sparrow_CtrlRig
+[2024.02.16-18.32.09:945][418]BlueprintLog: New page: Compile Sparrow_CtrlRig
+[2024.02.16-18.32.09:982][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.16-18.32.15:484][976]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.16-18.32.18:278][265]LogSavePackage: Moving output files for package: /Game/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig
+[2024.02.16-18.32.18:283][265]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/Sparrow_CtrlRig537C896B4DF4B8CB42D5FABDCA3DD27E.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.uasset'
+[2024.02.16-18.32.18:295][265]AssetCheck: New page: Asset Save: Sparrow_CtrlRig
+[2024.02.16-18.32.18:295][265]LogContentValidation: Display: Validating ControlRigBlueprint /Game/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.Sparrow_CtrlRig
+[2024.02.16-18.32.28:716][229]LogEditorTransaction: Undo Change Control Shape Transform
+[2024.02.16-18.32.31:463][430]LogEditorTransaction: Undo Change Control Shape Transform
+[2024.02.16-18.33.01:501][368]Cmd: MODE ROTGRID=0
+[2024.02.16-18.33.03:021][517]Cmd: MODE SCALEGRID=0
+[2024.02.16-18.33.29:320][271]BlueprintLog: New page: Compile Sparrow_CtrlRig
+[2024.02.16-18.33.29:359][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.02.16-18.33.34:087][758]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.16-18.33.41:435][467]LogEditorTransaction: Undo Move Control
+[2024.02.16-18.33.45:764][808]LogEditorTransaction: Undo Change Control Shape Transform
+[2024.02.16-18.33.46:295][816]Cmd: MODE ROTGRID=1
+[2024.02.16-18.33.46:685][847]Cmd: MODE SCALEGRID=1
+[2024.02.16-18.34.02:645][448]Cmd: MODE ROTGRID=0
+[2024.02.16-18.34.06:129][775]Cmd: MODE SCALEGRID=0
+[2024.02.16-18.34.12:294][421]LogSavePackage: Moving output files for package: /Game/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig
+[2024.02.16-18.34.12:298][421]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/Sparrow_CtrlRig4EF212834C0BEEF1DBC0DE8FC0F1E517.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.uasset'
+[2024.02.16-18.34.12:315][421]AssetCheck: New page: Asset Save: Sparrow_CtrlRig
+[2024.02.16-18.34.12:315][421]LogContentValidation: Display: Validating ControlRigBlueprint /Game/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.Sparrow_CtrlRig
+[2024.02.16-18.34.24:504][818]BlueprintLog: New page: Compile Sparrow_CtrlRig
+[2024.02.16-18.34.24:541][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.02.16-18.34.30:924][500]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.16-18.34.40:613][417]Cmd: MODE ROTGRID=1
+[2024.02.16-18.34.48:461][130]Cmd: MODE ROTGRID=0
+[2024.02.16-18.34.52:788][498]Cmd: MODE ROTGRID=1
+[2024.02.16-18.34.55:281][733]LogEditorTransaction: Undo Change Control Shape Transform
+[2024.02.16-18.35.06:270][775]Cmd: MODE ROTGRID=0
+[2024.02.16-18.35.20:677][ 78]LogSavePackage: Moving output files for package: /Game/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig
+[2024.02.16-18.35.20:681][ 78]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/Sparrow_CtrlRig5B38619C42DB3063AAB3ADB8E9D3A882.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.uasset'
+[2024.02.16-18.35.20:696][ 78]AssetCheck: New page: Asset Save: Sparrow_CtrlRig
+[2024.02.16-18.35.20:696][ 78]LogContentValidation: Display: Validating ControlRigBlueprint /Game/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_CtrlRig.Sparrow_CtrlRig
