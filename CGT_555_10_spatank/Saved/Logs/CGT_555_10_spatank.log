@@ -859,3 +859,89 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.02.22-22.12.24:326][913]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/SK_Mannequin_CtrlRig68FA6AED4A9EE71240BD7C962DEE5DB2.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.uasset'
 [2024.02.22-22.12.24:339][913]AssetCheck: New page: Asset Save: SK_Mannequin_CtrlRig
 [2024.02.22-22.12.24:339][913]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.SK_Mannequin_CtrlRig
+[2024.02.22-22.12.46:614][436]BlueprintLog: New page: Compile SK_Mannequin_CtrlRig
+[2024.02.22-22.12.46:646][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.02.22-22.13.36:837][333]BlueprintLog: New page: Compile SK_Mannequin_CtrlRig
+[2024.02.22-22.13.36:871][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.02.22-22.14.11:615][868]BlueprintLog: New page: Compile SK_Mannequin_CtrlRig
+[2024.02.22-22.14.11:648][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.02.22-22.14.45:895][243]BlueprintLog: New page: Compile SK_Mannequin_CtrlRig
+[2024.02.22-22.14.45:939][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.02.22-22.14.46:326][275]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig
+[2024.02.22-22.14.46:332][275]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/SK_Mannequin_CtrlRigAD274B7041CD6B523C7EECB11714368A.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.uasset'
+[2024.02.22-22.14.46:347][275]AssetCheck: New page: Asset Save: SK_Mannequin_CtrlRig
+[2024.02.22-22.14.46:347][275]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.SK_Mannequin_CtrlRig
+[2024.02.22-22.14.56:823][136]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig
+[2024.02.22-22.14.56:828][136]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/SK_Mannequin_CtrlRig1BC28A014F3F3007988126A61FA529F6.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.uasset'
+[2024.02.22-22.14.56:843][136]AssetCheck: New page: Asset Save: SK_Mannequin_CtrlRig
+[2024.02.22-22.14.56:843][136]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.SK_Mannequin_CtrlRig
+[2024.02.22-22.14.58:312][265]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig
+[2024.02.22-22.14.58:318][265]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/SK_Mannequin_CtrlRig3A0C912C438C6B09D9B37D9A3F47985B.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.uasset'
+[2024.02.22-22.14.58:335][265]AssetCheck: New page: Asset Save: SK_Mannequin_CtrlRig
+[2024.02.22-22.14.58:335][265]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.SK_Mannequin_CtrlRig
+[2024.02.22-22.15.11:081][682]BlueprintLog: New page: Compile SK_Mannequin_CtrlRig
+[2024.02.22-22.15.11:116][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.02.22-22.15.41:016][827]BlueprintLog: New page: Compile SK_Mannequin_CtrlRig
+[2024.02.22-22.15.41:049][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.02.22-22.16.03:886][208]LogEditorTransaction: Undo Change Control Shape Transform
+[2024.02.22-22.16.15:061][370]BlueprintLog: New page: Compile SK_Mannequin_CtrlRig
+[2024.02.22-22.16.15:099][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.02.22-22.16.35:235][336]BlueprintLog: New page: Compile SK_Mannequin_CtrlRig
+[2024.02.22-22.16.35:269][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.02.22-22.16.35:761][382]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig
+[2024.02.22-22.16.35:778][382]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/SK_Mannequin_CtrlRig95E0DB8B45515E169F82C5A583243312.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.uasset'
+[2024.02.22-22.16.35:795][382]AssetCheck: New page: Asset Save: SK_Mannequin_CtrlRig
+[2024.02.22-22.16.35:795][382]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.SK_Mannequin_CtrlRig
+[2024.02.22-22.16.57:872][748]BlueprintLog: New page: Compile SK_Mannequin_CtrlRig
+[2024.02.22-22.16.57:906][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.02.22-22.17.23:483][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.02.22-22.17.23:486][731]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.020
+[2024.02.22-22.17.23:486][731]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig] ([2] browsable assets)...
+[2024.02.22-22.17.23:496][731]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.SK_Mannequin_CtrlRig]
+[2024.02.22-22.17.23:496][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig]
+[2024.02.22-22.17.23:504][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig_Auto2
+[2024.02.22-22.17.23:504][731]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/SK_Mannequin_CtrlRig_Auto218BADA604E1BA24CDA5D0AA5C9F8EFFE.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/Autosaves/Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig_Auto2.uasset'
+[2024.02.22-22.17.23:509][731]LogFileHelpers: Auto-saving content packages took 0.024
+[2024.02.22-22.18.18:785][647]BlueprintLog: New page: Compile SK_Mannequin_CtrlRig
+[2024.02.22-22.18.18:819][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.02.22-22.18.34:818][209]LogEditorTransaction: Undo Change Control Shape Transform
+[2024.02.22-22.18.52:109][ 38]BlueprintLog: New page: Compile SK_Mannequin_CtrlRig
+[2024.02.22-22.18.52:144][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.02.22-22.19.40:519][184]BlueprintLog: New page: Compile SK_Mannequin_CtrlRig
+[2024.02.22-22.19.40:555][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.02.22-22.19.40:945][215]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig
+[2024.02.22-22.19.40:950][215]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/SK_Mannequin_CtrlRigAD3ABF524B5C583143E672BBA5720024.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.uasset'
+[2024.02.22-22.19.40:966][215]AssetCheck: New page: Asset Save: SK_Mannequin_CtrlRig
+[2024.02.22-22.19.40:967][215]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.SK_Mannequin_CtrlRig
+[2024.02.22-22.20.31:848][172]BlueprintLog: New page: Compile SK_Mannequin_CtrlRig
+[2024.02.22-22.20.31:883][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.02.22-22.21.02:950][517]BlueprintLog: New page: Compile SK_Mannequin_CtrlRig
+[2024.02.22-22.21.02:985][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.02.22-22.21.29:871][283]BlueprintLog: New page: Compile SK_Mannequin_CtrlRig
+[2024.02.22-22.21.29:905][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.02.22-22.22.13:316][606]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig
+[2024.02.22-22.22.13:321][606]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/SK_Mannequin_CtrlRig4527933F4C113767D647389210A037D6.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.uasset'
+[2024.02.22-22.22.13:338][606]AssetCheck: New page: Asset Save: SK_Mannequin_CtrlRig
+[2024.02.22-22.22.13:338][606]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.SK_Mannequin_CtrlRig
+[2024.02.22-22.22.14:011][669]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig
+[2024.02.22-22.22.14:016][669]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/SK_Mannequin_CtrlRig83D848D34DF9067DF68C2397ABD1CA0C.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.uasset'
+[2024.02.22-22.22.14:031][669]AssetCheck: New page: Asset Save: SK_Mannequin_CtrlRig
+[2024.02.22-22.22.14:031][669]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.SK_Mannequin_CtrlRig
+[2024.02.22-22.25.15:945][200]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.22-22.25.20:096][677]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.22-22.25.21:652][855]BlueprintLog: New page: Compile SK_Mannequin_CtrlRig
+[2024.02.22-22.25.21:690][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.02.22-22.25.36:741][637]LogScript: Warning: Script Msg: /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig : Cannot Rename Element: '' not found.
+[2024.02.22-22.26.12:366][817]BlueprintLog: New page: Compile SK_Mannequin_CtrlRig
+[2024.02.22-22.26.12:397][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.02.22-22.26.24:502][262]LogScript: Warning: Script Msg: /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig : Cannot Rename Element: '' not found.
+[2024.02.22-22.27.37:916][727]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig
+[2024.02.22-22.27.37:920][727]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/SK_Mannequin_CtrlRig874A5CF7482F00E3439F36923E2102DA.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.uasset'
+[2024.02.22-22.27.37:937][727]AssetCheck: New page: Asset Save: SK_Mannequin_CtrlRig
+[2024.02.22-22.27.37:937][727]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.SK_Mannequin_CtrlRig
+[2024.02.22-22.27.38:527][794]BlueprintLog: New page: Compile SK_Mannequin_CtrlRig
+[2024.02.22-22.27.38:562][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.02.22-22.27.39:107][844]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig
+[2024.02.22-22.27.39:114][844]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/SK_Mannequin_CtrlRigA8CBD53346D68ABD08EE75B28053AB0B.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.uasset'
+[2024.02.22-22.27.39:134][844]AssetCheck: New page: Asset Save: SK_Mannequin_CtrlRig
+[2024.02.22-22.27.39:134][844]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.SK_Mannequin_CtrlRig
