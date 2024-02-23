@@ -1419,3 +1419,42 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.02.23-00.12.52:835][453]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/SK_Mannequin_CtrlRigE7CD736B4FFBF3A76BE43E961B58A6B2.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.uasset'
 [2024.02.23-00.12.52:853][453]AssetCheck: New page: Asset Save: SK_Mannequin_CtrlRig
 [2024.02.23-00.12.52:853][453]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.SK_Mannequin_CtrlRig
+[2024.02.23-00.13.39:268][483]BlueprintLog: New page: Compile SK_Mannequin_CtrlRig
+[2024.02.23-00.13.39:329][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.02.23-00.14.07:452][352]BlueprintLog: New page: Compile SK_Mannequin_CtrlRig
+[2024.02.23-00.14.07:510][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.02.23-00.14.16:575][259]LogScript: Warning: Script Msg: /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig : Cannot Rename Element: '' not found.
+[2024.02.23-00.14.37:728][514]BlueprintLog: New page: Compile SK_Mannequin_CtrlRig
+[2024.02.23-00.14.37:789][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.02.23-00.14.38:515][556]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig
+[2024.02.23-00.14.38:526][556]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/SK_Mannequin_CtrlRig601E7EBA49CF54ADE70ADEA13AC4860B.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.uasset'
+[2024.02.23-00.14.38:546][556]AssetCheck: New page: Asset Save: SK_Mannequin_CtrlRig
+[2024.02.23-00.14.38:546][556]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.SK_Mannequin_CtrlRig
+[2024.02.23-00.14.53:375][ 30]LogScript: Error: Script Msg: /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig : Cannot find pin 'RigUnit_GetControlBool.Item.Name'.
+[2024.02.23-00.14.53:375][ 30]LogScript: Error: Script Msg: /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig : Cannot find pin 'RigUnit_GetControlBool.Item.Type'.
+[2024.02.23-00.16.49:023][393]LogEditorTransaction: Undo Deselect all nodes.
+[2024.02.23-00.16.50:176][456]LogEditorTransaction: Undo Add Link
+[2024.02.23-00.17.56:731][689]LogEditorTransaction: Undo Deselect all nodes.
+[2024.02.23-00.17.57:190][697]LogEditorTransaction: Undo Add Link
+[2024.02.23-00.17.57:772][750]LogEditorTransaction: Undo Move Nodes
+[2024.02.23-00.18.31:503][544]LogEditorTransaction: Undo Deselect all nodes.
+[2024.02.23-00.18.32:124][561]LogEditorTransaction: Undo Add Link
+[2024.02.23-00.20.37:955][863]LogScript: Error: Script Msg: /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig : Cannot find pin 'RigUnit_GetControlBool_1.Item.Name'.
+[2024.02.23-00.20.37:955][863]LogScript: Error: Script Msg: /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig : Cannot find pin 'RigUnit_GetControlBool_1.Item.Type'.
+[2024.02.23-00.21.08:377][210]BlueprintLog: New page: Compile SK_Mannequin_CtrlRig
+[2024.02.23-00.21.08:445][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.02.23-00.21.09:101][242]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig
+[2024.02.23-00.21.09:108][242]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/SK_Mannequin_CtrlRig02ECA6A2413AE6306CF0F1AF1C7AC7F3.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.uasset'
+[2024.02.23-00.21.09:135][242]AssetCheck: New page: Asset Save: SK_Mannequin_CtrlRig
+[2024.02.23-00.21.09:135][242]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.SK_Mannequin_CtrlRig
+[2024.02.23-00.24.43:691][311]LogScript: Error: Script Msg: /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig : Cannot link 'TwoBoneIKSimplePerItem_1.ExecuteContext' to 'SetTransform_1_1.ExecuteContext': Source and target pins are already connected..
+[2024.02.23-00.24.59:683][315]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig
+[2024.02.23-00.24.59:692][315]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/SK_Mannequin_CtrlRigF6D83B3548D19D630DBC83B292EE5541.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.uasset'
+[2024.02.23-00.24.59:712][315]AssetCheck: New page: Asset Save: SK_Mannequin_CtrlRig
+[2024.02.23-00.24.59:712][315]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.SK_Mannequin_CtrlRig
+[2024.02.23-00.25.13:271][446]LogEditorTransaction: Undo Move Control
+[2024.02.23-00.25.13:704][452]LogEditorTransaction: Undo Move Control
+[2024.02.23-00.25.20:447][901]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig
+[2024.02.23-00.25.20:452][901]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Saved/SK_Mannequin_CtrlRigCF977F7B42A34AC96E0FE2AB89A1F618.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_10_spatank/CGT_555_10_spatank/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.uasset'
+[2024.02.23-00.25.20:476][901]AssetCheck: New page: Asset Save: SK_Mannequin_CtrlRig
+[2024.02.23-00.25.20:476][901]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_CtrlRig.SK_Mannequin_CtrlRig
